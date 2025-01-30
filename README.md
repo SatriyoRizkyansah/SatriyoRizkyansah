@@ -1,10 +1,9 @@
-# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" height="45"> Satriyo Rizkyansah 
+# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" height="45"> Satriyo Rizkyansah   
+<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
-  
-  <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
-I am a full-stack developer passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
+I am a full-stack web developer passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
 
 ---
 
@@ -29,11 +28,6 @@ I am a full-stack developer passionate about building digital solutions from the
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ### 📊 Stats
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyorizkyansah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
-![Stats Overview](https://raw.githubusercontent.com/SatriyoRizkyansah/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/SatriyoRizkyansah/github-stats-transparent/output/generated/languages.svg)
--->
 <table>
   <tr>
     <td align="center">
@@ -46,13 +40,6 @@ I am a full-stack developer passionate about building digital solutions from the
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
 
 <!-- 
 ## 🗂️ Highlight Projects
