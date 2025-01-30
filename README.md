@@ -36,16 +36,18 @@ I am a full-stack developer passionate about building digital solutions from the
 -->
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyorizkyansah&layout=compact&theme=dracula" height="195"/>
     </td>
-    <td>
+    <td align="center">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=satriyorizkyansah&theme=dark" height="195"/>
       </a>
     </td>
   </tr>
 </table>
+
+
 
 
 
