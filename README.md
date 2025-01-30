@@ -1,7 +1,8 @@
-# <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> Satriyo Rizkyansah 
+# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" height="45"> Satriyo Rizkyansah 
 
+  
+  <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 **`Full-Stack Web Developer & Tech Enthusiast`**
-
 
 I am a full-stack developer passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
 
@@ -19,6 +20,7 @@ I am a full-stack developer passionate about building digital solutions from the
 ![Node.js](https://img.shields.io/badge/-Node.js-%233C873B?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
@@ -60,3 +62,6 @@ I am a full-stack developer passionate about building digital solutions from the
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatriyoRizkyansah&repo=Blogging-platform-App&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 -->
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
