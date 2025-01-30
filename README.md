@@ -49,7 +49,11 @@ I am a full-stack developer passionate about building digital solutions from the
 ![Stats Overview](https://raw.githubusercontent.com/SatriyoRizkyansah/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/SatriyoRizkyansah/github-stats-transparent/output/generated/languages.svg)
 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SatriyoRizkyansah" alt="SatriyoRizkyansah" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyorizkyansah&layout=compact&theme=dracula" height="195" />
+</p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satriyorizkyansah&theme=dark" alt="GitHub Streak" /></a>
 
 <!-- 
 ## 🗂️ Highlight Projects
