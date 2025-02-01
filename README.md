@@ -29,7 +29,7 @@ I am a full-stack web developer passionate about building digital solutions from
 
 ### 📊 Stats
 <table>
-  <tr>
+  <tr style="td: transparent;">
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriyorizkyansah&layout=compact&theme=dracula" height="195"/>
     </td>
