@@ -11,11 +11,12 @@ I am a full-stack web developer passionate about building digital solutions from
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Node.js](https://img.shields.io/badge/-Node.js-%233C873B?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
