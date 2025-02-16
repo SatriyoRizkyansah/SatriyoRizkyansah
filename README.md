@@ -3,7 +3,7 @@
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
 
-I am a full-stack web developer passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
+I am a full-stack web developer, passionate about building digital solutions from the ground up. From planning and design to implementation, I focus on efficiency and functionality in every project. I enjoy solving complex problems with clean and scalable code, continuously learning new technologies, and improving my development workflow.
 
 ---
 
