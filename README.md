@@ -25,7 +25,8 @@ I am a full-stack web developer, passionate about building digital solutions fro
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=swagger)
+
 
 ### 📊 Stats
 <table>
