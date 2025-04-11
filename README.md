@@ -17,7 +17,7 @@ I am a full-stack web developer, passionate about building digital solutions fro
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
-![Node.js](https://img.shields.io/badge/-Node.js-%233C873B?style=flat-square&logo=node.js&logoColor=ffffff)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-%233C873B?style=flat-square&logo=node.js&logoColor=ffffff) -->
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
