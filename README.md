@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" height="45"> Satriyo Rizkyansah   
+# <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" style="height:45px;" /> Satriyo Rizkyansah   
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 
 **`Full-Stack Web Developer & Tech Enthusiast`**
