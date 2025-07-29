@@ -8,19 +8,21 @@ I am a full-stack web developer, passionate about building digital solutions fro
 ---
 
 ### 🧰 My Tech Stack
-
+<!-- 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![MUI React](https://img.shields.io/badge/-MUI%20React-%230081CB?style=flat-square&logo=mui&logoColor=ffffff)
+-->
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-%233C873B?style=flat-square&logo=node.js&logoColor=ffffff) -->
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
@@ -29,6 +31,7 @@ I am a full-stack web developer, passionate about building digital solutions fro
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=swagger)
+
 
 
 ### 📊 Stats
